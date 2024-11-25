@@ -1,0 +1,23 @@
+.title {
+    color: rgb(3, 59, 97);
+}
+body {
+    background-image: url('src/background.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+}
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+.stdt {
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: aqua;
+    padding: 10px;
+    text-align: left;
+    white-space: pre-wrap
+}
+
