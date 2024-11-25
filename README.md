@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Exemplo de utilização de IA's - Pragas e doenças do Melão
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Exemplo de utilização de IA's para a criação de video-aula.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Copilot](https://copilot.microsoft.com/onboarding)** para roteirização e revisão;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- IA Generativa **[D-ID](https://studio.d-id.com)** para geração de avatar virtual e renderização do vídeo;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O projeto utilizou como base as informações presentes na 3ª edição do livro "A cultura do melão" da Embrapa Semiárido.
+
+Inicialmente foi utilizado o **[Copilot](https://copilot.microsoft.com/onboarding)**, da Microsoft, para criação do roteiro inicial, o qual passou por uma revisão e adaptação por um humano e posteriormente resumido com o auxilio da mesma ferramenta. O roteiro resumido foi usado como base para criação da narração por intermédio da IA de sintetização de vozes da **[ElevenLabs](https://www.elevenlabs.io)** e, em seguida foi criado o vídeo através da ferramenta de criação de avatar e renderização de vídeos **[D-ID](https://studio.d-id.com)**.
+
+Posteriormente o vídeo foi comprimido com o auxilio da ferramenta de compressão da **[Clideo](https://clideo.com/)**.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- **[Resultado ](exemple/index.html)**
